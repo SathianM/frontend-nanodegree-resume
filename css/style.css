@@ -57,8 +57,7 @@ h2,
 h3,
 h4,
 h5 {
-  padding:10px 5%;
-
+  padding: 10px 5%;
 }
 
 
@@ -76,13 +75,13 @@ h5 {
   color: #999;
   line-height: 16px;
   float: right;
-
 }
 
 p {
   font-size: 14px;
   color: #333;
   line-height: 21px;
+
 }
 
 a {
